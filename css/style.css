@@ -873,6 +873,7 @@ a:hover {
 
 .card-blog .card-body {
   position: relative;
+  height: 370px;
  }
 
 .card-blog .card-category-box {
