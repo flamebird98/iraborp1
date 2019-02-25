@@ -713,6 +713,7 @@ a:hover {
   padding: 2rem 2.1rem 0.5rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
+  min-height: 230px;
 }
 
 .service-box:hover .ico-circle {
@@ -872,6 +873,7 @@ a:hover {
 
 .card-blog .card-body {
   position: relative;
+  min-height: 270px;
 }
 
 .card-blog .card-category-box {
